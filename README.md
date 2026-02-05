@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hola, soy Jacqueline Bastias Pineda
 
-<!--
-**jwpinedab-tech/jwpinedab-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Emprendedora Tech & Manager | Full Stack Developer
 
-Here are some ideas to get you started:
+Emprendedora y manager especializada en **soluciones tecnológicas integrales**. Manejo todas las áreas de proyectos tech, desde el diseño de arquitectura de software hasta el desarrollo e implementación de aplicaciones escalables.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Stack Tecnológico
+
+**Frontend:**
+- HTML5, CSS3, JavaScript (ES6+)
+- React, jQuery
+- Bootstrap, Diseño Responsive
+
+**Backend:**
+- Python, Django
+- Arquitectura de Software
+- APIs RESTful y Servicios Web
+
+**Herramientas y Metodologías:**
+- Git & GitHub
+- Desarrollo Ágil
+- Gestión de Proyectos
+
+### 🎯 Áreas de Expertise
+
+- 💼 Gestión integral de proyectos tecnológicos
+- 🏗️ Diseño de arquitectura de software escalable
+- 🔧 Desarrollo full stack de aplicaciones web
+- 📊 Análisis de requerimientos y soluciones técnicas
+- 👥 Liderazgo de equipos multidisciplinarios
+
+### 🚀 Actualmente
+
+- 🔭 Desarrollando soluciones tecnológicas innovadoras para empresas
+- 🌱 Profundizando en arquitecturas escalables y microservicios
+- 💼 Liderando proyectos de desarrollo de software
+
+### 📫 Conecta conmigo
+
+**LinkedIn:** [linkedin.com/in/jacquelinebastiaspineda](https://www.linkedin.com/in/jacquelinebastiaspineda/)  
+**Email:** jw.pinedab@gmail.com
+
+---
+
+💡 *"Transformando ideas en soluciones tecnológicas concretas"*
